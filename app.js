@@ -7,6 +7,7 @@ var Dany = {
     city: 'valirya',
     hobby: 'Drakarys',
     died: 'stabed',
+    language: 'Valyria',
 }
 
 img.onclick = function() {
